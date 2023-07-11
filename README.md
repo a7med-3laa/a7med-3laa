@@ -1,4 +1,4 @@
-### A Senior Mobile Engineer with  more than a 5 years of experience in mobile development , Started with creating Android apps with Core Java and now with jetpack compose :D  \n and about 3 year of experience in developing apps using Flutter framework
+#### I A Senior Mobile Engineer with  more than 5 years of experience in mobile development, Started with creating Android apps with Core Java and now with jetpack compose :D  \n and about 3 years of experience in developing apps using Flutter framework
 
 <!--
 **a7med-3laa/a7med-3laa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
